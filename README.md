@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Milan Rathod 👋<br>🚀 About Me<br><br>I'm Milan Rathod, currently pursuing my 3rd year of Computer Science and Engineering at The Maharaja Sayajirao University (MSU), Baroda.<br><br>I'm a Full Stack Developer who enjoys building modern, scalable, and user-friendly web applications. I love learning new technologies, solving real-world problems, and continuously improving my development skills.<br>🎯 Goals<br>Build impactful real-world projects<br>Contribute to open-source<br>Keep learning and growing as a software developer
+<br>I'm Milan Rathod, currently pursuing my 3rd year of Computer Science and Engineering at The Maharaja Sayajirao University (MSU), Baroda.<br><br>I'm a Full Stack Developer who enjoys building modern, scalable, and user-friendly web applications. I love learning new technologies, solving real-world problems, and continuously improving my development skills.<br>🎯 Goals<br>Build impactful real-world projects<br>Contribute to open-source<br>Keep learning and growing as a software developer
 
 
 ## 🌐 Socials:
